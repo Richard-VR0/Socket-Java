@@ -12,6 +12,6 @@ The Java source files is in the "ProjectName/Client/src/client/" and "ProjectNam
   </thead>
 
   <tbody>
-    <tr><td>001 - Uppercase string</td> <td>The server converts the string sent by the client</td></tr>
+    <tr><td>001 - Uppercase string</td> <td>The server converts the string sent by the client to uppercase</td></tr>
   </tbody>
 </table>
