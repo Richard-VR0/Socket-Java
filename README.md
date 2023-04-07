@@ -2,7 +2,7 @@
 
 Creating and using sockets in Java.
 <br>
-The projects are created with <a href="https://netbeans.apache.org/" target="_blank">Netbeans</a>.
+The projects are created with <a href="https://netbeans.apache.org/">Netbeans</a>.
 <br>
 The Java source files is in the "ProjectName/Client/src/client/" and "ProjectName/Server/src/server/" directories.
 
