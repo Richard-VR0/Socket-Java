@@ -12,6 +12,7 @@ The Java source files is in the "ProjectName/Client/src/client/" and "ProjectNam
   </thead>
 
   <tbody>
-    <tr><td>001 - Uppercase string</td> <td>The server converts the string sent by the client to uppercase</td></tr>
+    <tr><td>001 - Uppercase string TCP</td> <td>The server converts the string sent by the client to uppercase with TCP</td></tr>
+    <tr><td>002 - Uppercase string UDP</td> <td>The server converts the string sent by the client to uppercase with UDP</td></tr>
   </tbody>
 </table>
