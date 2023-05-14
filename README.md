@@ -16,25 +16,3 @@ The Java source files is in the "ProjectName/Client/src/client/" and "ProjectNam
     <tr><td>002 - Uppercase string UDP</td> <td>The server converts the string sent by the client to uppercase with UDP</td></tr>
   </tbody>
 </table>
-
-URL indirizzoWeb = new URL(url);
-
-OutputStream out;
-
-//salva il contenuto della pagina web in un file locale del Server
-
-InputStream in = new BufferedInputStream(indirizzoWeb.openStream());
-
-out = new BufferedOutputStream(new FileOutputStream("C:\\Users\\url.html"));
-
-int leggiByte;
-
-while((leggiByte=in.read())>=0){
-
-out.write(leggiByte);
-
-}
-
-in.close();
-
-out.close();
